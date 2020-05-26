@@ -26,7 +26,8 @@ Date | Time: May 28th, 2020 @ 6pm PST
 
       - Scrum but; scrummer-fall anti-patterns
 
-      - watermelon effect (green on the outside and red on the inside)
+      - AP 1 watermelon effect (green on the outside and red on the inside)
+        - often a sign of too much WIP or a bad definition of done and misalignment between reporting metrics and the actual process in which work is complete... meaning "The developer is done... but now the tester has it? Yea, it's done. But it's not done done." 
 
 - What scrum is and isn't:
 
@@ -38,21 +39,22 @@ Date | Time: May 28th, 2020 @ 6pm PST
 
 ## My Story -- How we improved Quality and reduced WIP
 
-// todo
+Problem > Retro > to Solved
 
 - lessons
   - if it hurts, do it more
   - elevate your constraints
-  - If you can't describe the process, don't try to automate it.
+  - If you and everyone else can't describe the process the same, don't try to automate it.
   - teams must invest in a good CI/CD pipeline
 
 ## Story Points and Forecasting
 
 - relative vs absolute estimation: what's the difference?
 - why we should use it
+- what goe son the backlog? Artifacts: features, defects, technical debt, risks
 - burn ups
   - fixed scope, variable time
-  - fixed time, variable scope
+  - fixed time, variable sc ope
   - always reduce scope to hit a date (because time is one resource we can spende and never get back)
 - signs of maturity: teams stop estimating and focus more on controlling WIP
 
