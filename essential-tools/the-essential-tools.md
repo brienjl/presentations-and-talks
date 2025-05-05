@@ -70,7 +70,7 @@ as we review, call out what aspects of the information architecture is working f
 
 ---
 
-# 🧮 on spreadsheets (and databases)...
+# 🧮 on databases (and spreadsheets)...
 ## anyone know what CRUD means?
 if you're not building CRUD, you're probably using CRUD
 * CRUD is the **lifecycle of a db**... and most apps we use every day
@@ -78,6 +78,18 @@ if you're not building CRUD, you're probably using CRUD
 * **spreadsheets** have the most **influence w/ decisions**... second to personality
 
 `*the personality must be bigger than the prop - harry blackstone sr. (stage magician and illusionist) ♠️`
+
+---
+
+# good spreadsheet hygiene
+cell highlighting and keep it simple
+* red = bad
+* orange = approaching red
+* green = good
+* yellow = user input cells
+
+### don't make your audience slice/dice with filters, make them a dashboard!
+* most used funcntions ($, xlookup, sum, countif, sumif)
 
 ---
 # types of dbs
@@ -108,9 +120,32 @@ if you're not building CRUD, you're probably using CRUD
 
 ---
 # 🧑‍💻 on presentations...
+* lots of **orgs use presentations as status updates** ... this is a sign of a **low performing org**
 * **presentations are human artifacts** of company operations (projects, quarterlies, roadmaps, forks in the road, training materials, etc.)
+* **a new idea** should not be first presented in a presentation*
+
+`getting buy-in before you do before the presentation or pitch an idea (nemawashi)`
+
+---
+
+# 💪 presentations best practices
 * **goal complexity** and **level of effort** should dictate your approach
 * presentations are **for the audience**, not the presenter
-* information architecture applies
+* information architecture applies! always!
 * the loom concept -- a quick recording and a slide deck can save you a meeting!
 * **animate sparingly!!!**
+
+`"the most important thing is presentation" david copperfield (american magician) ♠️`
+
+---
+
+# 🔎 presentations in the wild
+* a thought experiment... 
+
+---
+
+# level up your presenting and public speaking skills
+* get involved in activities that encourage extemporaneous (speaking on the fly)
+    * toast masters
+    * [PechaKucha](https://www.pechakucha.com/about)
+    * sleight of hand/magic 
